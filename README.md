@@ -3,7 +3,9 @@
   Location: .github/profile/README.md
 -->
 
-<h1 align="center">AlphaDevs</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlphaDevsHQ/.github/main/profile/assets/banner.jpeg" alt="AlphaDevs banner" width="100%" />
+</p>
 
 <p align="center">
   <strong>/helloworld</strong> — software engineering, AI workflows, cloud systems, automation, fintech, and Web3.
